@@ -1,1 +1,1 @@
-/usr/bin/env
+/vercel/path0/.vercel/project.json
