@@ -1,1 +1,1 @@
-/Users/max/.local/share/com.vercel.cli/auth.json
+/usr/bin/env
