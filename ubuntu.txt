@@ -1,1 +1,1 @@
-/vercel/path0/.vercel/project.json
+.vercel/project.json
