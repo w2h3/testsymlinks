@@ -1,0 +1,1 @@
+/Users/max/Library/Application Support/com.vercel.cli/auth.json
