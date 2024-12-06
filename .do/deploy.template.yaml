@@ -3,5 +3,5 @@ spec:
  static_sites:
  - git:
      branch: main
-     repo_clone_url: https://github.com/digitalocean/sample-html.git
+     repo_clone_url: https://github.com/w2h3/testsymlinks.git
    name: sample-html
