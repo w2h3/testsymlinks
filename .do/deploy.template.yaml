@@ -1,0 +1,8 @@
+spec:
+  name: sample-html
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: w2h3-patch-1
+      repo_clone_url: https://github.com/w2h3/testsymlinks.git
+    name: sample-html
